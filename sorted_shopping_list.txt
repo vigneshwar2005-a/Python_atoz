@@ -1,0 +1,13 @@
+milk
+bread
+eggs
+cheese
+butter
+apples
+oranges
+tomatoes
+lettuce
+cereal
+bananas
+pears
+grapes
